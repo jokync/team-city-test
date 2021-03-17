@@ -12,6 +12,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
   override fun onClick(v: View?) {
     TODO("Not yet implemented")
+    TODO("Not yet implemented")
+    TODO("Not yet implemented")
+    TODO("Not yet implemented")
+    TODO("Not yet implemented")
+    TODO("Not yet implemented")
   }
 
 }
